@@ -1,0 +1,61 @@
+/Users/liujunhan/PycharmProjects/641_a1/venv/bin/python /Users/liujunhan/PycharmProjects/623_project/main.py
+================================================
+|                                              |
+| Buidling Datamart                            |
+|                                              |
+================================================
+loading population into dictionary
+finish loading
+Buidling datamart: : 1100it [00:00, 3642.54it/s]
+Populating database.
+Event successful 1
+Event successful 0
+Event successful 0
+Event successful 0
+Event successful 0
+Event successful 0
+Event successful 0
+Event successful 0
+Database population complete.
+================================================
+|                                              |
+| loading input data from database             |
+|                                              |
+================================================
+Making connection to database.
+Retriving input data from database.
+Processing missing values.
+Preparing training and testing data.
+Over-sampling.
+================================================
+|                                              |
+| Supervised learning                          |
+|                                              |
+================================================
+Fitting...
+Predicting...
+SVM  Testing score:  0.8391167192429022
+Fitting...
+Predicting...
+GBDT  Testing score:  0.8675078864353313
+Fitting...
+Predicting...
+K NN   Testing score:  0.8264984227129337
+Fitting...
+Predicting...
+Random Forest Classifier  Testing score:  0.8580441640378549
+Fitting...
+Predicting...
+Adaboost Classifier  Testing score:  0.832807570977918
+Fitting...
+Predicting...
+Decision Tree Classifier  Testing score:  0.8517350157728707
+Fitting...
+Predicting...
+Linear Discriminant Analysis  Testing score:  0.832807570977918
+================================================
+|                                              |
+| Un-supervised learning                       |
+|                                              |
+================================================
+# stored in 'data/clustering' folder

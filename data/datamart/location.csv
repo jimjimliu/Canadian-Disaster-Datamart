@@ -1,0 +1,725 @@
+LocationKey,City,Province,Country,Canada
+1,Ottawa,Ontario,Canada,y
+2,Hull,Quebec,Canada,y
+3,Grand Forks,British Columbia,Canada,y
+4,Wellington,British Columbia,Canada,y
+5,Cranberry,British Columbia,Canada,y
+6,Saint John River Basin,New Brunswick,Canada,y
+7,Fernie,British Columbia,Canada,y
+8,Frank,Alberta,Canada,y
+9,Carbonado,British Columbia,Canada,y
+10,Edmonton,Alberta,Canada,y
+11,Calgary,Alberta,Canada,y
+12,Upper Arrow Lake,British Columbia,Canada,y
+13,Toronto,Ontario,Canada,y
+14,Red River,Manitoba,Canada,y
+15,Halifax,Nova Scotia,Canada,y
+16,Spences Bridge,British Columbia,Canada,y
+17,Vancouver Island,British Columbia,Canada,y
+18,Quebec City,Quebec,Canada,y
+19,Notre-Dame-de-la-Salette,Quebec,Canada,y
+20,Chester,New Brunswick,Canada,y
+21,Burnaby,British Columbia,Canada,y
+22,New Westminster,British Columbia,Canada,y
+23,Regina,Saskatchewan,Canada,y
+24,Winnipeg,Manitoba,Canada,y
+25,Spanish River,Ontario,Canada,y
+26,Rogers Pass,British Columbia,Canada,y
+27,St-Alphonse-de-Bagotville,Quebec,Canada,y
+28,Coucoucache,Quebec,Canada,y
+29,Cochrane,Ontario,Canada,y
+30,Fredericton,New Brunswick,Canada,y
+31,St. Johns,Newfoundland and Labrador,Canada,y
+32,Charlottetown,Prince Edward Island,Canada,y
+33,Lakes Huron,Ontario,Canada,y
+34,Erie and,Ontario,Canada,y
+35,St. Lawrence River,Quebec,Canada,y
+36,Hillcrest,Alberta,Canada,y
+37,Nanaimo,British Columbia,Canada,y
+38,Cooper Mine,British Columbia,Canada,y
+39,Jane Camp,British Columbia,Canada,y
+40,Northeastern,New Brunswick,Canada,y
+41,Matheson,Ontario,Canada,y
+42,New Waterford,Nova Scotia,Canada,y
+43,Northwestern,British Columbia,Canada,y
+44,Dartmouth,Nova Scotia,Canada,y
+45,Victoria,British Columbia,Canada,y
+46,Northwest Territories,Northwest Territories,Canada,y
+47,Yukon,Yukon,Canada,y
+48,Nunavut,Nunavut,Canada,y
+49,Pictou County,Nova Scotia,Canada,y
+50,Trenton,Ontario,Canada,y
+51,Southwestern,Ontario,Canada,y
+52,Southeastern,Saskatchewan,Canada,y
+53,Icelandic River,Manitoba,Canada,y
+54,Fisher River,Manitoba,Canada,y
+55,Saint John River,New Brunswick,Canada,y
+56,Woodstock,New Brunswick,Canada,y
+57,Montreal,Quebec,Canada,y
+58,Canning,Nova Scotia,Canada,y
+59,Waswanipi reserve,Quebec,Canada,y
+60,Southern,Alberta,Canada,y
+61,Grand Falls,Newfoundland and Labrador,Canada,y
+62,Upper Gagetown,New Brunswick,Canada,y
+63,Burton,New Brunswick,Canada,y
+64,Lake St. Clair,Ontario,Canada,y
+65,Westmount,Quebec,Canada,y
+66,Emerson,Manitoba,Canada,y
+67,Goulais River,Ontario,Canada,y
+68,Northern,British Columbia,Canada,y
+69,Whitedog Lake,Ontario,Canada,y
+70,Come by Chance,Newfoundland and Labrador,Canada,y
+71,Duck Mountain,Manitoba,Canada,y
+72,Swan River,Manitoba,Canada,y
+73,Saint-Romuald,Quebec,Canada,y
+74,Linton,Quebec,Canada,y
+75,Sarnia,Ontario,Canada,y
+76,Lethbridge,Alberta,Canada,y
+77,Taber,Alberta,Canada,y
+78,Irma,Alberta,Canada,y
+79,Wainwright,Alberta,Canada,y
+80,Louiseville,Quebec,Canada,y
+81,Yamachiche,Quebec,Canada,y
+82,St.-Justin Region of Trois-Rivières,Quebec,Canada,y
+83,Central,Alberta,Canada,y
+84,Norman Wells,Northwest Territories,Canada,y
+85,Courtland,Ontario,Canada,y
+86,Lesser Slave Lake region,Alberta,Canada,y
+87,Saguenay region,Quebec,Canada,y
+88,Saint-Basile-le-Grand,Quebec,Canada,y
+89,Dundas,Ontario,Canada,y
+90,Albany,Ontario,Canada,y
+91,Attawapiskat River,Ontario,Canada,y
+92,Niagara Falls,Ontario,Canada,y
+93,Dryden,Ontario,Canada,y
+94,Montmartre,Saskatchewan,Canada,y
+95,Liard River,Northwest Territories,Canada,y
+96,Northern,Manitoba,Canada,y
+97,Radisson,Quebec,Canada,y
+98,Saint-Jacques,Quebec,Canada,y
+99,Sudbury,Ontario,Canada,y
+100,Southwestern,British Columbia,Canada,y
+101,Gulf of St. Lawrence,Quebec,Canada,y
+102,Saint-Léonard d'Aston,Quebec,Canada,y
+103,Ungava Peninsula,Quebec,Canada,y
+104,Old Crow,Yukon,Canada,y
+105,Harrow,Ontario,Canada,y
+106,Banff,Alberta,Canada,y
+107,Hagersville,Ontario,Canada,y
+108,Vancouver Harbour,British Columbia,Canada,y
+109,La Baie,Quebec,Canada,y
+110,Sainte-Anne des Plaines,Quebec,Canada,y
+111,St.-Amable,Quebec,Canada,y
+112,Western,Alberta,Canada,y
+113,Northumberland Strait,Nova Scotia,Canada,y
+114,Southern,Ontario,Canada,y
+115,Joe Rich,British Columbia,Canada,y
+116,Southern,British Columbia,Canada,y
+117,Oka,Quebec,Canada,y
+118,Madeleine Islands,Quebec,Canada,y
+119,Bugaboo Glacier Provincial Park,British Columbia,Canada,y
+120,Notre-Dame de Pierreville,Quebec,Canada,y
+121,Chaudière River,Quebec,Canada,y
+122,Niverville,Manitoba,Canada,y
+123,Betsiamites,Quebec,Canada,y
+124,Ragueneau et Baie-Comeau,Quebec,Canada,y
+125,Red Deer,Alberta,Canada,y
+126,St. Lazare,Manitoba,Canada,y
+127,unknown,unknown,Saudi Arabia,n
+128,Off Cape Beale,British Columbia,Canada,y
+129,Kinsella,Alberta,Canada,y
+130,Southern,New Brunswick,Canada,y
+131,Maskinongé,Quebec,Canada,y
+132,Jarvis,Ontario,Canada,y
+133,Near the North Pole,Nunavut,Canada,y
+134,Canso,Nova Scotia,Canada,y
+135,Vernon,British Columbia,Canada,y
+136,Grand Coulee,Saskatchewan,Canada,y
+137,Central,Ontario,Canada,y
+138,Haines,Alberta,Canada,y
+139,Corunna,Ontario,Canada,y
+140,Montréal,Quebec,Canada,y
+141,Elmira,Ontario,Canada,y
+142,Port au Choix,Newfoundland and Labrador,Canada,y
+143,Peace River,Alberta,Canada,y
+144,Sainte-Brigitte-de-Laval,Quebec,Canada,y
+145,Port-aux-Basques,Newfoundland and Labrador,Canada,y
+146,Hay River,Northwest Territories,Canada,y
+147,Plymouth,Nova Scotia,Canada,y
+148,Attawapiskat,Ontario,Canada,y
+149,Longlac,Ontario,Canada,y
+150,Prairies Provinces and,Ontario,Canada,y
+151,Oakville,Manitoba,Canada,y
+152,Yellowknife,Northwest Territories,Canada,y
+153,Avalon,Newfoundland and Labrador,Canada,y
+154,Burin Peninsulas,Newfoundland and Labrador,Canada,y
+155,Bonavista,Newfoundland and Labrador,Canada,y
+156,Trinity,Newfoundland and Labrador,Canada,y
+157,Conception Bays,Newfoundland and Labrador,Canada,y
+158,St. John's,Newfoundland and Labrador,Canada,y
+159,Upper Saint John River Valley,New Brunswick,Canada,y
+160,Shubenacadie,Nova Scotia,Canada,y
+161,Truro,Nova Scotia,Canada,y
+162,Windsor,Ontario,Canada,y
+163,Kirkland Lake,Ontario,Canada,y
+164,Plaster Rock NB,Quebec,Canada,y
+165,Lower St. Lawrence Region,Quebec,Canada,y
+166,Southern,Manitoba,Canada,y
+167,Sydney,Nova Scotia,Canada,y
+168,Southwestern,Manitoba,Canada,y
+169,Aylmer,Quebec,Canada,y
+170,Salmon Arm,British Columbia,Canada,y
+171,Avalon area of,Newfoundland and Labrador,Canada,y
+172,Poplar Bay,Alberta,Canada,y
+173,Hervey Junction,Quebec,Canada,y
+174,Blanc Sablon,Quebec,Canada,y
+175,North Central,Saskatchewan,Canada,y
+176,Western,Manitoba,Canada,y
+177,Southeastern,British Columbia,Canada,y
+178,Sahtu Region of the,Northwest Territories,Canada,y
+179,Burin Peninsula,Newfoundland and Labrador,Canada,y
+180,Hamilton,Ontario,Canada,y
+181,Sunny Valley,Alberta,Canada,y
+182,Grande Prairie,Alberta,Canada,y
+183,South Dumfries,Ontario,Canada,y
+184,Flat Bay,Newfoundland and Labrador,Canada,y
+185,Grey County,Ontario,Canada,y
+186,Wellington,Ontario,Canada,y
+187,Dufferin County,Ontario,Canada,y
+188,Timmins,Ontario,Canada,y
+189,Atikokan,Ontario,Canada,y
+190,Souris River,Manitoba,Canada,y
+191,Assiniboine River,Manitoba,Canada,y
+192,Pembina River,Manitoba,Canada,y
+193,Lesser Slave Lake area,Alberta,Canada,y
+194,Nechako River,British Columbia,Canada,y
+195,Southwest,Alberta,Canada,y
+196,Bay of Fundy,New Brunswick,Canada,y
+197,Durham,Ontario,Canada,y
+198,South-Central,Saskatchewan,Canada,y
+199,Assiniboine,Manitoba,Canada,y
+200,Red,Manitoba,Canada,y
+201,Winnipeg Rivers,Manitoba,Canada,y
+202,Northwest of Matagami,Quebec,Canada,y
+203,Northwest,Ontario,Canada,y
+204,Iroquois Falls,Ontario,Canada,y
+205,Timmins areas,Ontario,Canada,y
+206,Hummingbird Creek,British Columbia,Canada,y
+207,Les Éboulements,Quebec,Canada,y
+208,Wood Buffalo National Park,Alberta,Canada,y
+209,unknown,unknown,Saint-Pierre-et-Miquelon,n
+210,Kangiqsualujjuaq,Quebec,Canada,y
+211,Eastern,Ontario,Canada,y
+212,Swan Hills,Alberta,Canada,y
+213,Northern,Ontario,Canada,y
+214,Portage la Prairie,Manitoba,Canada,y
+215,Tibbet Lake,Northwest Territories,Canada,y
+216,Greater Vancouver Area,British Columbia,Canada,y
+217,Peggy's Cove,Nova Scotia,Canada,y
+218,Barrie,Ontario,Canada,y
+219,Taylor,British Columbia,Canada,y
+220,Terrace,British Columbia,Canada,y
+221,East of Lake Winnipeg,Manitoba,Canada,y
+222,Melita,Manitoba,Canada,y
+223,Thamesville,Ontario,Canada,y
+224,La Ronge,Saskatchewan,Canada,y
+225,Beardmore,Ontario,Canada,y
+226,Burwash Landing,Yukon,Canada,y
+227,Kenora,Ontario,Canada,y
+228,Badger,Newfoundland and Labrador,Canada,y
+229,Clearwater,Alberta,Canada,y
+230,Drummondville,Quebec,Canada,y
+231,Across Toron,unknown,Canada,y
+232,Balmoral,New Brunswick,Canada,y
+233,Val d'Amour areas in Restigouche County,New Brunswick,Canada,y
+234,Vancouver,British Columbia,Canada,y
+235,Glacier National Park,British Columbia,Canada,y
+236,St-Hilaire,Quebec,Canada,y
+237,Passmore,British Columbia,Canada,y
+238,Pine Lake,Alberta,Canada,y
+239,Chetwynd,British Columbia,Canada,y
+240,Walkerton,Ontario,Canada,y
+241,Vanguard,Saskatchewan,Canada,y
+242,Eastern,New Brunswick,Canada,y
+243,Northern Coastline of,New Brunswick,Canada,y
+244,Peace River area,British Columbia,Canada,y
+245,Morley,Ontario,Canada,y
+246,Chapple,Ontario,Canada,y
+247,Dawson,Ontario,Canada,y
+248,Emo,Ontario,Canada,y
+249,Lake of the Woods,Ontario,Canada,y
+250,La Vallee,Ontario,Canada,y
+251,Rainy River,Ontario,Canada,y
+252,Fort Frances,Ontario,Canada,y
+253,Northeast,British Columbia,Canada,y
+254,Central,British Columbia,Canada,y
+255,New York City,NY,U.S.A.,n
+256,Brookdale,Manitoba,Canada,y
+257,Notre-Dame-du-Lac,Quebec,Canada,y
+258,Northern,Alberta,Canada,y
+259,Montreal Lake,Saskatchewan,Canada,y
+260,Attawapiskat First Nation,Ontario,Canada,y
+261,Municipalities of Ignace,Ontario,Canada,y
+262,Alberton,Ontario,Canada,y
+263,La Valle,Ontario,Canada,y
+264,Machin,Ontario,Canada,y
+265,Township of Sioux-Narrows - Nestor Falls,Ontario,Canada,y
+266,Southeast,Manitoba,Canada,y
+267,Kingsville,Ontario,Canada,y
+268,Peerless Lake,Alberta,Canada,y
+269,Trout Lake,Alberta,Canada,y
+270,Turnor Lake,Saskatchewan,Canada,y
+271,Hawes/Patuanak,Saskatchewan,Canada,y
+272,Crutwell,Saskatchewan,Canada,y
+273,Dillon,Saskatchewan,Canada,y
+274,Hatchett Lake,Saskatchewan,Canada,y
+275,Pelican Narrows,Saskatchewan,Canada,y
+276,Deschambeault,Saskatchewan,Canada,y
+277,Wahpeton First Nation,Saskatchewan,Canada,y
+278,Nordell,Saskatchewan,Canada,y
+279,Peter Pond,Saskatchewan,Canada,y
+280,Nemiscau region,Quebec,Canada,y
+281,Near community of Sheshatshui,Newfoundland and Labrador,Canada,y
+282,Kee-Way-Win FN,Ontario,Canada,y
+283,Townships of Terrace Bay,Ontario,Canada,y
+284,Schrieber,Ontario,Canada,y
+285,Village of Rossport,Ontario,Canada,y
+286,Pays Plat FN,Ontario,Canada,y
+287,Deer Lake FN,Ontario,Canada,y
+288,Brantford,Ontario,Canada,y
+289,Tyendinaga Township First Nation,Ontario,Canada,y
+290,Oxford,Nova Scotia,Canada,y
+291,Eastern Passage,Nova Scotia,Canada,y
+292,Cole Harbour,Nova Scotia,Canada,y
+293,Southwestern,Alberta,Canada,y
+294,The Bois-Francs,Quebec,Canada,y
+295,Chaudière-Appalaches,Quebec,Canada,y
+296,Beauce,Quebec,Canada,y
+297,Lanaudière,Quebec,Canada,y
+298,Abitibi-Témiscamingue regions,Quebec,Canada,y
+299,South Central,Manitoba,Canada,y
+300,The Pas,Manitoba,Canada,y
+301,Estevan,Saskatchewan,Canada,y
+302,Edmundston,New Brunswick,Canada,y
+303,unknown,unknown,East Indian Ocean,n
+304,Kings County,Prince Edward Island,Canada,y
+305,North Vancouver,British Columbia,Canada,y
+306,Kashechewan,Ontario,Canada,y
+307,Fort Good Hope,Northwest Territories,Canada,y
+308,Bridgewater,Nova Scotia,Canada,y
+309,Chisasibi,Quebec,Canada,y
+310,Chibougamau,Quebec,Canada,y
+311,James Bay,Quebec,Canada,y
+312,Cumberland House Cree First Nation,Saskatchewan,Canada,y
+313,Kelowna,British Columbia,Canada,y
+314,Stephenville,Newfoundland and Labrador,Canada,y
+315,Abbotsford,British Columbia,Canada,y
+316,Glovertown,Newfoundland and Labrador,Canada,y
+317,Delta,British Columbia,Canada,y
+318,Red Earth,Saskatchewan,Canada,y
+319,Slocan River,British Columbia,Canada,y
+320,Mistissini,Quebec,Canada,y
+321,Aklavik,Northwest Territories,Canada,y
+322,Tumbler Ridge,British Columbia,Canada,y
+323,Nordegg,Alberta,Canada,y
+324,Cariboo-Chilcotin,British Columbia,Canada,y
+325,Galiano Island,British Columbia,Canada,y
+326,Boisbriand,Quebec,Canada,y
+327,Amherstburg,Ontario,Canada,y
+328,Sainte-Anne-des-Plaines,Quebec,Canada,y
+329,Saint-Joseph et Vallée,Quebec,Canada,y
+330,Russell,Ontario,Canada,y
+331,South Coast,British Columbia,Canada,y
+332,Lower Mainland,British Columbia,Canada,y
+333,Maple Ridge,British Columbia,Canada,y
+334,Selkirk,Manitoba,Canada,y
+335,Red Earth First Nation,Saskatchewan,Canada,y
+336,Gatineau,Quebec,Canada,y
+337,Fishing Lake,Saskatchewan,Canada,y
+338,Bellefleur,New Brunswick,Canada,y
+339,Sept-Îles,Quebec,Canada,y
+340,Smithers & Mount Currie,British Columbia,Canada,y
+341,Happy Valley - Goose Bay,Newfoundland and Labrador,Canada,y
+342,Elie,Manitoba,Canada,y
+343,South Indian Lake,Manitoba,Canada,y
+344,Kootenay,British Columbia,Canada,y
+345,Natuashish,Newfoundland and Labrador,Canada,y
+346,Gaspé,Quebec,Canada,y
+347,Matane,Quebec,Canada,y
+348,Prince George,British Columbia,Canada,y
+349,Saint John,New Brunswick,Canada,y
+350,Port Bruce,Ontario,Canada,y
+351,Belleville,Ontario,Canada,y
+352,Paddockwood,Saskatchewan,Canada,y
+353,Trent Hills,Ontario,Canada,y
+354,Albany River,Ontario,Canada,y
+355,James Bay,Ontario,Canada,y
+356,Newbrook,Alberta,Canada,y
+357,Pukatawagan,Manitoba,Canada,y
+358,Norway House,Manitoba,Canada,y
+359,Sherridon,Manitoba,Canada,y
+360,High River,Alberta,Canada,y
+361,Huntingdon,Quebec,Canada,y
+362,Montérégie,Quebec,Canada,y
+363,Eastern Townships,Quebec,Canada,y
+364,Northern,Saskatchewan,Canada,y
+365,Deschambault Lake,Saskatchewan,Canada,y
+366,Daniels Harbour,Newfoundland and Labrador,Canada,y
+367,La Tuque,Quebec,Canada,y
+368,Zama City,Alberta,Canada,y
+369,Kingston,Ontario,Canada,y
+370,Northeastern,Saskatchewan,Canada,y
+371,White Rock,British Columbia,Canada,y
+372,East Kooteney Elk River-Watershed Region,British Columbia,Canada,y
+373,Baie Verte Peninsula,Newfoundland and Labrador,Canada,y
+374,Lunenburg,Nova Scotia,Canada,y
+375,Peninsulas of Avalon,Newfoundland and Labrador,Canada,y
+376,Burin,Newfoundland and Labrador,Canada,y
+377,Municipalities of Pipestone,Manitoba,Canada,y
+378,Sifton,Manitoba,Canada,y
+379,Cameron,Manitoba,Canada,y
+380,White water,Manitoba,Canada,y
+381,Morton,Manitoba,Canada,y
+382,Riverside,Manitoba,Canada,y
+383,Turtle Mountain,Manitoba,Canada,y
+384,Strathcona,Manitoba,Canada,y
+385,Argyle,Manitoba,Canada,y
+386,Pangnirtung,Nunavut,Canada,y
+387,Queens County,Prince Edward Island,Canada,y
+388,Colchester,Nova Scotia,Canada,y
+389,Pictou,Nova Scotia,Canada,y
+390,Antigonish,Nova Scotia,Canada,y
+391,Inverness,Nova Scotia,Canada,y
+392,Victoria,Nova Scotia,Canada,y
+393,Cumberland,Nova Scotia,Canada,y
+394,Gander,Newfoundland and Labrador,Canada,y
+395,Hare Bay,Newfoundland and Labrador,Canada,y
+396,Swift Current,Newfoundland and Labrador,Canada,y
+397,South-Central,Manitoba,Canada,y
+398,Greater Vancouver,British Columbia,Canada,y
+399,Fraser Valley,British Columbia,Canada,y
+400,Khyex River,British Columbia,Canada,y
+401,Eyjafjallajökull glacier,unknown,Iceland,n
+402,St. Albert,Alberta,Canada,y
+403,Parkland County,Alberta,Canada,y
+404,Two Hills County,Alberta,Canada,y
+405,Kneehill County,Alberta,Canada,y
+406,Camrose,Alberta,Canada,y
+407,Bighorn,Alberta,Canada,y
+408,Rock Creek,Yukon,Canada,y
+409,Henderson Corner,Yukon,Canada,y
+410,Wemotaci reserve,Quebec,Canada,y
+411,Kamloops,British Columbia,Canada,y
+412,Cariboo,British Columbia,Canada,y
+413,Tuktoyaktuk,Northwest Territories,Canada,y
+414,Mackenzie Delta,Northwest Territories,Canada,y
+415,Lorette River,Quebec,Canada,y
+416,Vaughan,Ontario,Canada,y
+417,Newmarket,Ontario,Canada,y
+418,Notre-Dame-des-Prairies,Quebec,Canada,y
+419,Alma,Quebec,Canada,y
+420,Baie-Saint-Paul,Quebec,Canada,y
+421,Miramichi,New Brunswick,Canada,y
+422,Restigouche River,New Brunswick,Canada,y
+423,Val-des-Bois,Quebec,Canada,y
+424,Gracefield,Quebec,Canada,y
+425,Déléage,Quebec,Canada,y
+426,Mont-Laurier,Quebec,Canada,y
+427,Steinbach,Manitoba,Canada,y
+428,Cranberry Portage,Manitoba,Canada,y
+429,Meat Cove,Nova Scotia,Canada,y
+430,Yarmouth County,Nova Scotia,Canada,y
+431,Baie-Verte,New Brunswick,Canada,y
+432,Port Elgin,New Brunswick,Canada,y
+433,Lambton County,Ontario,Canada,y
+434,Midland,Ontario,Canada,y
+435,Across Canada,Saskatchewan,Canada,y
+436,Leamington,Ontario,Canada,y
+437,North Battleford,Saskatchewan,Canada,y
+438,Port-au-Prince,unknown,Haiti,n
+439,Southern,Saskatchewan,Canada,y
+440,Southeast,Yukon,Canada,y
+441,Merville,British Columbia,Canada,y
+442,Lang,British Columbia,Canada,y
+443,Kicking Horse Pass,British Columbia,Canada,y
+444,Winisk,Ontario,Canada,y
+445,North-central,Alberta,Canada,y
+446,Southcentral,Quebec,Canada,y
+447,County of Thorhild,Alberta,Canada,y
+448,Britannia Beach,British Columbia,Canada,y
+449,Perth-Andover,New Brunswick,Canada,y
+450,Kent,Ontario,Canada,y
+451,Essex,Ontario,Canada,y
+452,Leamington counties,Ontario,Canada,y
+453,Comox,British Columbia,Canada,y
+454,Glengarry Hospital,British Columbia,Canada,y
+455,Chapleau,Ontario,Canada,y
+456,Saguenay River Valley,Quebec,Canada,y
+457,Mauricie Region,Quebec,Canada,y
+458,Bonaventure,Quebec,Canada,y
+459,Cross Lake,Manitoba,Canada,y
+460,Seymourville,Manitoba,Canada,y
+461,Haileybury,Ontario,Canada,y
+462,Roseau River First Nation,Manitoba,Canada,y
+463,Sioux Falls,Manitoba,Canada,y
+464,Peguis First Nation,Manitoba,Canada,y
+465,St. Andrews,Manitoba,Canada,y
+466,St. Clements,Manitoba,Canada,y
+467,Echo Harbour,British Columbia,Canada,y
+468,Dawson,Yukon,Canada,y
+469,Rideau,Quebec,Canada,y
+470,Chaudière,Quebec,Canada,y
+471,Quyon Rivers,Quebec,Canada,y
+472,Pike Lake,Saskatchewan,Canada,y
+473,Coalmont,British Columbia,Canada,y
+474,Liverpool,Nova Scotia,Canada,y
+475,Capreol,Ontario,Canada,y
+476,Crerar,Ontario,Canada,y
+477,Eastern,Quebec,Canada,y
+478,Baffin Bay,Nunavut,Canada,y
+479,Plaster Rock,New Brunswick,Canada,y
+480,Moose River,Nova Scotia,Canada,y
+481,St-Gregoire-de-Montmercy,Quebec,Canada,y
+482,Dance Township,Ontario,Canada,y
+483,Sydney Mines,Nova Scotia,Canada,y
+484,Cape Breton,Nova Scotia,Canada,y
+485,Great Lakes: Lake,Ontario,Canada,y
+486,Gogama,Ontario,Canada,y
+487,Little St. Lawrence,Newfoundland and Labrador,Canada,y
+488,Almonte,Ontario,Canada,y
+489,Aldershot,Ontario,Canada,y
+490,Saint-Donat,Quebec,Canada,y
+491,Windsor to Tecumseh,Ontario,Canada,y
+492,Okanagan Valley,British Columbia,Canada,y
+493,Elgin,New Brunswick,Canada,y
+494,Bristol,New Brunswick,Canada,y
+495,Dugald,Manitoba,Canada,y
+496,Red Deer River,Alberta,Canada,y
+497,Mississagi,Ontario,Canada,y
+498,Fraser River,British Columbia,Canada,y
+499,Off Queen Charlotte Islands,British Columbia,Canada,y
+500,Saint-Joachim,Quebec,Canada,y
+501,Rimouski,Quebec,Canada,y
+502,Cabano,Quebec,Canada,y
+503,Canoe River,British Columbia,Canada,y
+504,Bow River,British Columbia,Canada,y
+505,Sumas,British Columbia,Canada,y
+506,Chilliwack,British Columbia,Canada,y
+507,Coniston,Ontario,Canada,y
+508,Stephenville Crossing,Newfoundland and Labrador,Canada,y
+509,Summerside,Newfoundland and Labrador,Canada,y
+510,Eastend,Saskatchewan,Canada,y
+511,Lake Superior,Ontario,Canada,y
+512,White Point Beach,Nova Scotia,Canada,y
+513,Moose Jaw,Saskatchewan,Canada,y
+514,Lake Louise,Alberta,Canada,y
+515,Nicolet,Quebec,Canada,y
+516,Springhill,Nova Scotia,Canada,y
+517,Mounte Slesse,British Columbia,Canada,y
+518,Peace River,British Columbia,Canada,y
+519,St. Lawrence,Newfoundland and Labrador,Canada,y
+520,Murdochville,Quebec,Canada,y
+521,Thetford Mines,Quebec,Canada,y
+522,Prince Rupert,British Columbia,Canada,y
+523,Amaranth,Manitoba,Canada,y
+524,Lanark,Ontario,Canada,y
+525,Revelstoke,British Columbia,Canada,y
+526,The Battery,Newfoundland and Labrador,Canada,y
+527,St. John's Harbour,Newfoundland and Labrador,Canada,y
+528,South Central,Saskatchewan,Canada,y
+529,Chedabucto Bay,Nova Scotia,Canada,y
+530,Kootenay Region,British Columbia,Canada,y
+531,McBride,British Columbia,Canada,y
+532,Toulnustouc River,Quebec,Canada,y
+533,Southeastern,New Brunswick,Canada,y
+534,West coast,British Columbia,Canada,y
+535,Hay River Township,Northwest Territories,Canada,y
+536,Sainte-Thérèse-de-Blainville,Quebec,Canada,y
+537,Saint-Joachim-de-Tourelle,Quebec,Canada,y
+538,Ramsey Arm,British Columbia,Canada,y
+539,Port Alberni,British Columbia,Canada,y
+540,Hope,British Columbia,Canada,y
+541,Ocean Falls,British Columbia,Canada,y
+542,Granduc Mine,British Columbia,Canada,y
+543,Lasalle,Quebec,Canada,y
+544,Northeast of Vancouver,British Columbia,Canada,y
+545,Lake Huron,Ontario,Canada,y
+546,St. Lawrence counties of,Quebec,Canada,y
+547,Toyko,unknown,Japan,n
+548,Baie-Comeau,Quebec,Canada,y
+549,Crowsnest Pass,British Columbia,Canada,y
+550,Huron,Ontario,Canada,y
+551,Perth counties,Ontario,Canada,y
+552,Camp Creek,British Columbia,Canada,y
+553,Lambeth,Ontario,Canada,y
+554,Dunnville,Ontario,Canada,y
+555,Porteau,British Columbia,Canada,y
+556,Qu'Appelle River Basin,Saskatchewan,Canada,y
+557,Iroquois,New Brunswick,Canada,y
+558,Lively,Ontario,Canada,y
+559,Coppercliff,Ontario,Canada,y
+560,Field,Ontario,Canada,y
+561,Saint-Jean,Quebec,Canada,y
+562,Fraser Canyon,British Columbia,Canada,y
+563,Saint-Jean-Vianney,Quebec,Canada,y
+564,Maniwaki,Quebec,Canada,y
+565,Egan,Quebec,Canada,y
+566,South Region of Outaouais,Quebec,Canada,y
+567,Kootenay region,British Columbia,Canada,y
+568,Vancouver area,British Columbia,Canada,y
+569,Victoriaville,Quebec,Canada,y
+570,Southwestern,Quebec,Canada,y
+571,Richelieu River,Quebec,Canada,y
+572,Corner Brook,Newfoundland and Labrador,Canada,y
+573,Smoky,Alberta,Canada,y
+574,Peace River Basins,Alberta,Canada,y
+575,Harbour Breton,Newfoundland and Labrador,Canada,y
+576,Cedoux,Saskatchewan,Canada,y
+577,Newfoundland,Nova Scotia,Canada,y
+578,Central,Manitoba,Canada,y
+579,Cambridge/Waterloo Region,Ontario,Canada,y
+580,Rae Point,Northwest Territories,Canada,y
+581,Sussex Corner,New Brunswick,Canada,y
+582,Chaleur Bay,New Brunswick,Canada,y
+583,Devastation Glacier,British Columbia,Canada,y
+584,Saint Bonaventure,Quebec,Canada,y
+585,Trois-Rivières,Quebec,Canada,y
+586,Pincher Creek,Alberta,Canada,y
+587,Western,Nova Scotia,Canada,y
+588,Central,Nova Scotia,Canada,y
+589,Northern,Nova Scotia,Canada,y
+590,Niagara Peninsula,Ontario,Canada,y
+591,Fundy Isles,New Brunswick,Canada,y
+592,Cranbrook,British Columbia,Canada,y
+593,Moncton,New Brunswick,Canada,y
+594,Petty Harbour,Newfoundland and Labrador,Canada,y
+595,Fort McMurray,Alberta,Canada,y
+596,Rainbow Lake,Alberta,Canada,y
+597,St-Eustache,Quebec,Canada,y
+598,Eastman,Quebec,Canada,y
+599,Milk River,Alberta,Canada,y
+600,Millwoods,Alberta,Canada,y
+601,Golden,British Columbia,Canada,y
+602,Glace Bay,Nova Scotia,Canada,y
+603,North York,Ontario,Canada,y
+604,Red River region,Manitoba,Canada,y
+605,Chapais region of Chibougamau,Quebec,Canada,y
+606,Woodstock,Ontario,Canada,y
+607,Drumheller,Alberta,Canada,y
+608,Southern,Quebec,Canada,y
+609,Mississauga,Ontario,Canada,y
+610,Belmoral Mine,Quebec,Canada,y
+611,Val d'Or,Quebec,Canada,y
+612,Webb,Saskatchewan,Canada,y
+613,Red Lake,Ontario,Canada,y
+614,Gaspésie Region,Quebec,Canada,y
+615,Southwest,British Columbia,Canada,y
+616,Squamish River,British Columbia,Canada,y
+617,Sussex,New Brunswick,Canada,y
+618,Southeastern,Ontario,Canada,y
+619,Westfield,New Brunswick,Canada,y
+620,Grand Bay,New Brunswick,Canada,y
+621,Squamish,British Columbia,Canada,y
+622,Medonte,Ontario,Canada,y
+623,Labrador City,Newfoundland and Labrador,Canada,y
+624,Lodgepole,Alberta,Canada,y
+625,Orillia,Ontario,Canada,y
+626,Sherbrooke,Quebec,Canada,y
+627,Dunsmuir,British Columbia,Canada,y
+628,Montreal Sainte-Rose,Quebec,Canada,y
+629,Curling,Newfoundland and Labrador,Canada,y
+630,North shore of St. Lawrence River,Quebec,Canada,y
+631,Yamachiche Maskinonge River basins,Quebec,Canada,y
+632,Reeces Corners,Ontario,Canada,y
+633,Cincinnati. Ohio,unknown,USA,n
+634,Cape Breton Island,Nova Scotia,Canada,y
+635,Gaspésie,Quebec,Canada,y
+636,Avalon Peninsula,Newfoundland and Labrador,Canada,y
+637,Northeast,Saskatchewan,Canada,y
+638,Drayton Valley,Alberta,Canada,y
+639,Lower Fraser River Valley,British Columbia,Canada,y
+640,South,Manitoba,Canada,y
+641,Chesley,Ontario,Canada,y
+642,Western,Quebec,Canada,y
+643,London,Ontario,Canada,y
+644,Smiths Falls,Ontario,Canada,y
+645,Pemberton area,British Columbia,Canada,y
+646,West Coast of,British Columbia,Canada,y
+647,Chatham,Ontario,Canada,y
+648,North Atlantic near west coast,unknown,Ireland,n
+649,Stoney Creek,Ontario,Canada,y
+650,Hinton,Alberta,Canada,y
+651,Lake Erie,Ontario,Canada,y
+652,Hopeville to Barrie,Ontario,Canada,y
+653,East Central,British Columbia,Canada,y
+654,Riviere Chaudière,Quebec,Canada,y
+655,Valrita-Harty,Ontario,Canada,y
+656,Blue River,British Columbia,Canada,y
+657,Fraser,British Columbia,Canada,y
+658,Roseau,Manitoba,Canada,y
+659,Red Rivers,Manitoba,Canada,y
+660,unknown,unknown,Libya,n
+661,Slave Lake,Alberta,Canada,y
+662,Hall Lake,Saskatchewan,Canada,y
+663,Wollaston Lake,Saskatchewan,Canada,y
+664,Brandon,Manitoba,Canada,y
+665,Weyburn,Saskatchewan,Canada,y
+666,Estavan,Saskatchewan,Canada,y
+667,Yarmouth,Nova Scotia,Canada,y
+668,Wolfe Lake,New Brunswick,Canada,y
+669,Mishkeegogamang Ojibway First Nation New Osnaburgh,Ontario,Canada,y
+670,Eckville,Alberta,Canada,y
+671,Lacombe,Alberta,Canada,y
+672,Paddle River,Alberta,Canada,y
+673,Fort Vermilion,Alberta,Canada,y
+674,Resolute Bay,Nunavut,Canada,y
+675,Goderich,Ontario,Canada,y
+676,Kingcome Inlet,British Columbia,Canada,y
+677,Bella Coola,British Columbia,Canada,y
+678,Duncan,British Columbia,Canada,y
+679,North Cowichan Vancouver Island,British Columbia,Canada,y
+680,Prince Eward Island,Newfoundland and Labrador,Canada,y
+681,Fort Albany,Ontario,Canada,y
+682,Kashechewan First Nations,Ontario,Canada,y
+683,Mackenzie County,Alberta,Canada,y
+684,Province of,Quebec,Canada,y
+685,unknown,unknown,Japan,n
+686,Sheshatshiu,Newfoundland and Labrador,Canada,y
+687,Vita,Manitoba,Canada,y
+688,Sicamous,British Columbia,Canada,y
+689,Peachland,British Columbia,Canada,y
+690,Thunder Bay,Ontario,Canada,y
+691,unknown,unknown,unknown,n
+692,Lac-Mégantic,Quebec,Canada,y
+693,unknown,unknown,unknown,unknown
+694,Kasabonika Lake First Nation,Ontario,Canada,y
+695,Gainsford,Alberta,Canada,y
+696,Northwest River,Newfoundland and Labrador,Canada,y
+697,Island Lake,Manitoba,Canada,y
+698,Garden Hill,Manitoba,Canada,y
+699,Coalhurst,Alberta,Canada,y
+700,Sandy Lake First Nation,Ontario,Canada,y
+701,Southeast,British Columbia,Canada,y
+702,Burlington,Ontario,Canada,y
+703,Quesnel Lake,British Columbia,Canada,y
+704,L’Isle-Verte,Quebec,Canada,y
+705,Saint-Jean-sur-Richelieu,Quebec,Canada,y
+706,Cumberland House,Saskatchewan,Canada,y
+707,Mattagami First Nation,Ontario,Canada,y
+708,unknown,unknown,Nepal,n
+709,Long Lake,Alberta,Canada,y
+710,Chestermere,Alberta,Canada,y
+711,Tecumseh,Ontario,Canada,y
+712,Christmas Island,Nova Scotia,Canada,y
+713,Nove Scotia,Prince Edward Island,Canada,y
+714,Pikangikum First Nation,Ontario,Canada,y
+715,Horton,Ontario,Canada,y
+716,Kashechewan First Nation,Ontario,Canada,y
+717,Easterville,Manitoba,Canada,y
+718,Chemawawin,Manitoba,Canada,y
+719,Long Plain First Nation,Manitoba,Canada,y
+720,West Kelowna,British Columbia,Canada,y
+721,Burns Bog,British Columbia,Canada,y
+722,Seaforth Channel,British Columbia,Canada,y
+723,Northeastern,British Columbia,Canada,y
+724,Paul First Nation,Alberta,Canada,y

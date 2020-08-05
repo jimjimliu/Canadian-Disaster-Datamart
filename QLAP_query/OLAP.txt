@@ -1,0 +1,295 @@
+
+-----------------------------------------------------------------------------
+/*
+ * Drill Down on Date;
+ * 
+ * listing the number of natural disasters in each year, season, month, day
+ */
+-----------------------------------------------------------------------------
+-- year  Q1
+
+SELECT 
+D.year, DI.disaster_group, count(*) as total_count
+from
+fact F, date D, disaster DI
+where F.start_date_key=D.date_key and F.disaster_key=DI.disaster_key and DI.disaster_group='Natural'
+group by (D.year,DI.disaster_group)
+order by D.year DESC;
+
+-- season drill down Q2
+
+SELECT 
+D.season_ca, DI.disaster_group, count(*) as total_count
+from
+fact F, date D, disaster DI
+where F.start_date_key=D.date_key and F.disaster_key=DI.disaster_key and DI.disaster_group='Natural'
+group by (D.season_ca,DI.disaster_group)
+order by D.season_ca ASC;
+
+-- month drill down Q3
+
+SELECT 
+select D.month, DI.disaster_group, count(*) as total_count
+from
+fact F, date D, disaster DI
+where F.start_date_key=D.date_key and F.disaster_key=DI.disaster_key and DI.disaster_group='Natural'
+group by (D.month,DI.disaster_group)
+order by D.month ASC;
+
+--day drill down Q4
+
+SELECT 
+D.month,D.day, DI.disaster_group, count(*) as total_count
+from
+fact F, date D, disaster DI
+where F.start_date_key=D.date_key and F.disaster_key=DI.disaster_key and DI.disaster_group='Natural'
+group by (D.month,D.day,DI.disaster_group)
+order by D.month,D.day ASC;
+
+
+-----------------------------------------------------------------------------
+
+
+ROLL UP
+Climbing up location concept hierachy;
+
+Listing the total number of fatalities of technology disaster type by city-> province -> country
+ 
+
+-----------------------------------------------------------------------------
+
+-- city Q5
+
+select L.city, DI.disaster_group, sum(F.fatalities) as fatalitiesFROM
+fact F, location L, disaster DI
+WHERE
+F.location_key=L.location_key and F.disaster_key=DI.disaster_key and DI.disaster_group='Technology'
+GROUP BY L.city, DI.disaster_group
+ORDER BY L.city;
+
+-- province Q6
+ 
+select L.province, DI.disaster_group, sum(F.fatalities) as fatalities
+FROM
+fact F, location L, disaster DI
+WHERE
+F.location_key=L.location_key and F.disaster_key=DI.disaster_key and DI.disaster_group='Technology'
+GROUP BY L.province, DI.disaster_group
+ORDER BY L.province;
+
+-- country Q7
+
+select L.country, DI.disaster_group, sum(F.fatalities) as fatalities
+FROM
+fact F, location L, disaster DI
+WHERE
+F.location_key=L.location_key and F.disaster_key=DI.disaster_key and DI.disaster_group='Technology'
+and L.country='Canada'
+GROUP BY L.country, DI.disaster_group
+ORDER BY L.country;
+
+
+-----------------------------------------------------------------------------
+
+
+ROLL UP
+By reducing dimensions; 
+
+-----------------------------------------------------------------------------
+
+-- Determing the total number of people evacuated in Ontario for each year of natural disaster. Q8
+
+select D.year, DI.disaster_group, sum(evacuated) as evacuated, L.province
+FROM
+fact F, date D, disaster DI, location L
+WHERE 
+F.start_date_key=D.date_key and F.disaster_key=DI.disaster_key and F.location_key=L.location_key
+and L.province ='Ontario' and DI.disaster_group='Natural'
+GROUP BY
+D.year,DI.disaster_group, L.province
+ORDER BY
+D.year;
+
+
+-- number of people evacuated in ontario in each year; Q9
+
+select D.year,  sum(evacuated) as evacuated, L.province
+FROM
+fact F, date D,  location L
+WHERE 
+F.start_date_key=D.date_key and  F.location_key=L.location_key
+and L.province ='Ontario' 
+GROUP BY
+D.year, L.province
+ORDER BY
+D.year;
+
+-- number of people evacuated in ontario; Q10
+
+select  sum(evacuated) as evacuated, L.province
+FROM
+fact F,   location L
+WHERE 
+F.location_key=L.location_key
+and L.province ='Ontario' 
+GROUP BY
+L.province;
+
+
+-----------------------------------------------------------------------------
+
+
+SLICE
+
+determine the number of fatalities due to winterstorm over years. Q11
+
+-----------------------------------------------------------------------------
+
+select D.year, DI.disaster_type, sum(F.fatalities) as fatalities
+FROM
+fact F, date D, disaster DI
+WHERE
+F.start_date_key=D.date_key and F.disaster_key=DI.disaster_key and DI.disaster_type='Winter Storm'
+GROUP BY
+D.year, DI.disaster_type
+ORDER BY
+D.year DESC;
+
+
+
+-----------------------------------------------------------------------------
+
+
+SLICE
+
+list the disaster type and according number of people evacuated in 2016 of each province; Q12
+
+-----------------------------------------------------------------------------
+
+select L.province, DI.disaster_type, sum(F.evacuated) as evacuated, D.year
+FROM
+fact F, location L, disaster DI, date D
+WHERE
+F.location_key=L.location_key and F.disaster_key=DI.disaster_key and F.start_date_key=D.date_key
+and D.year=2016
+GROUP BY
+L.province, DI.disaster_type,D.year
+ORDER BY L.province;
+
+-----------------------------------------------------------------------------
+
+
+SLICE
+
+list the number of disasters of each disaster subgroup in each season in ontario; Q16
+
+-----------------------------------------------------------------------------
+
+select D.season_ca, DI.disaster_subgroup, count(*) as total_count 
+FROM
+fact f, date D, disaster DI, location L
+WHERE
+F.start_date_key=D.date_key and F.disaster_key=DI.disaster_key and F.location_key=L.location_key
+and L.province='Ontario'
+GROUP BY
+D.season_ca, DI.disaster_subgroup
+ORDER BY D.season_ca;
+
+-----------------------------------------------------------------------------
+
+
+DICE
+
+For each disaster type, contrast the number of fatalities in Quebec and Ontario
+after 1920; Q13
+
+-----------------------------------------------------------------------------
+
+
+select T1.disaster, T2.ontario, T3.quebec from
+(select distinct(disaster_type) as disaster from disaster) as T1
+LEFT OUTER JOIN
+(select DI.disaster_type as disaster, sum(F.fatalities) as ontario
+FROM
+fact F, disaster DI, location L, date D
+WHERE F.disaster_key=DI.disaster_key and F.location_key=L.location_key and L.province='Ontario'
+and F.start_date_key=D.date_key and D.year>1920
+GROUP BY
+DI.disaster_type) as T2
+ON T1.disaster=T2.disaster
+LEFT OUTER JOIN
+(select DI.disaster_type as disaster, sum(F.fatalities) as quebec
+FROM
+fact F, disaster DI, location L, date D
+WHERE F.disaster_key=DI.disaster_key and F.location_key=L.location_key and L.province='Quebec'
+ and F.start_date_key=D.date_key and D.year>1990
+GROUP BY
+DI.disaster_type) as T3
+ON T1.disaster=T3.disaster;
+
+
+
+-----------------------------------------------------------------------------
+
+
+TOP N
+
+Determine the top 5 province with most natural disasters; Q14
+
+-----------------------------------------------------------------------------
+
+
+select L.province, DI.disaster_group, count(*) as total
+FROM
+fact F, location L, disaster DI
+WHERE
+F.location_key=L.location_key and F.disaster_key=DI.disaster_key and DI.disaster_group='Natural'
+GROUP BY
+L.province, DI.disaster_group
+ORDER BY total DESC
+LIMIT 5;
+
+
+
+-----------------------------------------------------------------------------
+
+
+TOP N
+
+Determine the top 5 province with most fatalities due to natural disasters; Q15
+
+-----------------------------------------------------------------------------
+
+
+select L.province, DI.disaster_group, sum(F.fatalities) as total
+FROM
+fact F, location L, disaster DI
+WHERE
+F.location_key=L.location_key and F.disaster_key=DI.disaster_key and DI.disaster_group='Natural'
+GROUP BY
+L.province, DI.disaster_group
+ORDER BY total DESC;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

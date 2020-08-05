@@ -1,0 +1,32 @@
+province,disaster_type,evacuated,year
+Alberta,Epidemic,,2016
+Alberta,Flood,,2016
+Alberta,Storms and Severe Thunderstorms,,2016
+Alberta,Wildfire,90164,2016
+British Columbia,Flood,60,2016
+British Columbia,Leak / Spill Release,,2016
+British Columbia,Storm - Unspecified / Other,,2016
+British Columbia,Wildfire,468,2016
+Manitoba,Leak / Spill Release,200,2016
+Manitoba,Storms and Severe Thunderstorms,,2016
+Manitoba,Tornado,600,2016
+Manitoba,Wildfire,4140,2016
+New Brunswick,Winter Storm,200,2016
+Newfoundland and Labrador,Flood,,2016
+Newfoundland and Labrador,Winter Storm,200,2016
+Nova Scotia,Flood,,2016
+Nova Scotia,Storm - Unspecified / Other,,2016
+Nova Scotia,Storms and Severe Thunderstorms,,2016
+Nova Scotia,Winter Storm,,2016
+Ontario,Flood,1207,2016
+Ontario,Landslide,,2016
+Ontario,Residential,,2016
+Ontario,Storms and Severe Thunderstorms,,2016
+Ontario,Winter Storm,200,2016
+Prince Edward Island,Flood,,2016
+Prince Edward Island,Winter Storm,200,2016
+Quebec,Winter Storm,200,2016
+Saskatchewan,Epidemic,,2016
+Saskatchewan,Flood,576,2016
+Saskatchewan,Leak / Spill Release,,2016
+Saskatchewan,Storms and Severe Thunderstorms,,2016

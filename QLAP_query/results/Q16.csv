@@ -1,0 +1,31 @@
+season_ca,disaster_subgroup,total_count
+autumn,Biological,2
+autumn,Hazardous Chemicals,5
+autumn,Infrastructure failure,1
+autumn,Terrorist,2
+autumn,Transportation accident,3
+autumn,Meteorological - Hydrological,17
+autumn,Fire,3
+spring,Biological,4
+spring,Fire,4
+spring,Transportation accident,4
+spring,Meteorological - Hydrological,68
+spring,Geological,1
+spring,Hazardous Chemicals,4
+summer,Geological,2
+summer,Explosion,2
+summer,Biological,1
+summer,Transportation accident,2
+summer,Hazardous Chemicals,5
+summer,Fire,3
+summer,Meteorological - Hydrological,85
+summer,Infrastructure failure,1
+winter,Fire,4
+winter,Arson,1
+winter,Biological,2
+winter,Hazardous Chemicals,12
+winter,Explosion,1
+winter,Infrastructure failure,1
+winter,Meteorological - Hydrological,44
+winter,Geological,1
+winter,Transportation accident,6

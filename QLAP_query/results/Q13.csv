@@ -1,0 +1,44 @@
+disaster,on_fatalities,qc_fatalities
+Flood,9,10
+Storms and Severe Thunderstorms,133,3
+Storm - Unspecified / Other,17,0
+Derailment Release,0,2
+Energy,,
+Epidemic,576,79
+Transportation,9,
+Marine,28,
+Air,133,12
+Bomb Attacks,0,
+Leak / Spill Release,0,
+Manufacturing / Industry,2,
+Rail,66,
+Infestation,,
+Wildfire,77,0
+Pandemic,425,425
+Tornado,77,1
+Winter Storm,124,86
+Cold Event,0,
+Heat Event,1195,
+Vehicle,125,43
+Hurricane / Typhoon / Tropical Storm,81,2
+Shootings,2,
+Residential,43,32
+Drought,0,
+Fire,0,0
+Vehicle Release,3,
+Landslide,12,0
+Non-Residential,13,2
+Space Debris,,
+Storm Surge,,
+unknown,,
+Rioting,,
+Communications,,
+Earthquake,,0
+Kidnapping / Murder,,2
+Geomagnetic Storm,,
+Marine Release,,
+Tsunami,,
+Disturbance / Demonstrations,,
+Volcano,,
+Avalanche,,11
+Water,,0
